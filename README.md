@@ -1,4 +1,3 @@
-
 # Assignment 3 - Artificial Neural Network Implementation
 
 This repository contains the solution for Exercise 3, which focuses on implementing and extending a multi-layer artificial neural network as described in Chapter 11 of the book *"Machine Learning with PyTorch and Scikit-Learn"* by Sebastian Raschka et al. (2022).
